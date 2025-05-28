@@ -1,5 +1,3 @@
 ## Hi there 👋
 
-[view articles](https://github.com/AllaRomasheva/articles)
-
-[visit website](https://romasheva.com/)
+[articles](https://github.com/AllaRomasheva/articles)  [website](https://romasheva.com/)
