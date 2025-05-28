@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[view articles](/AllaRomasheva/articles)
+[view articles](https://github.com/AllaRomasheva/articles)
 
 <!--
 **AllaRomasheva/AllaRomasheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
