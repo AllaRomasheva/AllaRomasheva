@@ -1,3 +1,14 @@
+<p align="center"><a href="https://romasheva.com/" aria-label="Romasheva Design"><img width="225" height="36" src="https://romasheva.com/images/brand/logo.webp" alt="Romasheva Design"></a></p>
+
+<p align="center">
+<a href="" title="UX Audit"><img width="50" height="50" src="https://romasheva.com/images/icon/service-audit.svg"/></a>
+<a href="" title="Application design"><img width="50" height="50" src="https://romasheva.com/images/icon/service-app.svg"/></a>
+<a href="" title="Graphic design"><img width="50" height="50" src="https://romasheva.com/images/icon/service-graphic.svg"/></a>
+<a href="" title="Prototyping. UI design"><img width="50" height="50" src="https://romasheva.com/images/icon/service-prototype.svg"/></a>
+<a href="" title="Web design"><img width="50" height="50" src="https://romasheva.com/images/icon/service-web-design.svg"/></a>
+<a href="" title="Brand design"><img width="50" height="50" src="https://romasheva.com/images/icon/service-brand.svg"/></a>
+</p>
+
 ## 🧐 About Me
 
 - UI/UX designer, from Kyiv, Ukraine 🇺🇦 
